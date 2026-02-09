@@ -51,17 +51,12 @@ flutter run
 
 ---
 
-## 📌 Note
-
-This is still a work in progress and currently at MVP stage. New features like advanced notifications, real time payments and analytics will be added soon.
-
----https://www.linkedin.com/in/vaibhavi-r-r
 
 ## 👩‍💻 Author
 
 **Vaibhavi R Ram**  
-[LinkedIn]([LinkedIn](https://www.linkedin.com/in/vaibhavi-r-r)
-)
+
+
 
 ---
 
